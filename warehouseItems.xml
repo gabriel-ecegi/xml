@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8">
+<WarehouseItems>
+    <WarehouseItem>
+        <EAN>
+            123456789
+        </EAN>
+        <Code>
+            BetaIntegrationCode
+        <Code>
+        <Quantity>
+            20
+        </Quantity>
+    </WarehouseItem>
+</WarehouseItems>
