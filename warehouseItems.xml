@@ -11,6 +11,17 @@
             20
         </Quantity>
     </WarehouseItem>
+     <WarehouseItem>
+        <EAN>
+            F
+        </EAN>
+        <Code>
+            ValidWarehouse
+        </Code>
+        <Quantity>
+            30
+        </Quantity>
+    </WarehouseItem>
     <WarehouseItem>
         <EAN>
             G
