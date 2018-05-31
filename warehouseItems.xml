@@ -2,13 +2,35 @@
 <WarehouseItems>
     <WarehouseItem>
         <EAN>
-            123456789
+            G
         </EAN>
         <Code>
-            BetaIntegrationCode
+            ValidWarehouse
         </Code>
         <Quantity>
             20
+        </Quantity>
+    </WarehouseItem>
+    <WarehouseItem>
+        <EAN>
+            G
+        </EAN>
+        <Code>
+            ValidWarehouse
+        </Code>
+        <Quantity>
+            60
+        </Quantity>
+    </WarehouseItem>
+     <WarehouseItem>
+        <EAN>
+            NonExistingProduct
+        </EAN>
+        <Code>
+            ValidWarehouse
+        </Code>
+        <Quantity>
+            5
         </Quantity>
     </WarehouseItem>
 </WarehouseItems> 
