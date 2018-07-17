@@ -4,9 +4,9 @@
         <EAN>
             G
         </EAN>
-        <Code>
+        <WarehouseCode>
             ValidWarehouse
-        </Code>
+        </WarehouseCode>
         <Quantity>
             20
         </Quantity>
@@ -15,9 +15,9 @@
         <EAN>
             F
         </EAN>
-        <Code>
+        <WarehouseCode>
             ValidWarehouse
-        </Code>
+        </WarehouseCode>
         <Quantity>
             30
         </Quantity>
@@ -26,9 +26,9 @@
         <EAN>
             G
         </EAN>
-        <Code>
+        <WarehouseCode>
             InvalidWarehouse
-        </Code>
+        </WarehouseCode>
         <Quantity>
             60
         </Quantity>
@@ -37,9 +37,9 @@
         <EAN>
             NonExistingProduct
         </EAN>
-        <Code>
+        <WarehouseCode>
             ValidWarehouse
-        </Code>
+        </WarehouseCode>
         <Quantity>
             5
         </Quantity>
