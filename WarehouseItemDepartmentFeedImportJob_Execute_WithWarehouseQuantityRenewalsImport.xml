@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WarehouseItems>
+    <WarehouseItem>
+        <EAN>
+            G
+        </EAN>
+        <WarehouseCode>
+            ValidWarehouse
+        </WarehouseCode>
+        <Quantity>
+            80
+        </Quantity>
+    </WarehouseItem>
+</WarehouseItems> 
