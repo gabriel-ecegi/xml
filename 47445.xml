@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WarehouseItems>
+    <WarehouseItem>
+        <EAN>
+            658658658
+        </EAN>
+        <WarehouseCode>
+            Beta
+        </WarehouseCode>
+        <Quantity>
+            2
+        </Quantity>
+    </WarehouseItem>
+    <WarehouseItem>
+        <EAN>
+            658658658
+        </EAN>
+        <WarehouseCode>
+            Gama
+        </WarehouseCode>
+        <Quantity>
+            10
+        </Quantity>
+    </WarehouseItem>
+</WarehouseItems> 
